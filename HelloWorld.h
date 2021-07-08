@@ -1,2 +1,2 @@
 void swap(int*a, int*b);
-void nop(void);
+void nop(void); //do_nothing
