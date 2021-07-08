@@ -12,6 +12,9 @@ void swap (int* a, int*b)
 
 int main(void)
 {
+    int a,b;
     printf("Hello World"\n );
+    a=5;b=10;
+    swap(&a,&b);
     return 0;
 }
