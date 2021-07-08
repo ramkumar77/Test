@@ -19,6 +19,6 @@ int main(void)
     printf("Hello World"\n );
     a=5;b=10;
     swap(&a,&b);
-    printf("swapped")
+    printf("swapped"\n);
     return 0;
 }
