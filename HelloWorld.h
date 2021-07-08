@@ -3,3 +3,4 @@ void nop(void);
 
 void do_nothing(void);
 void test(void);
+void test1(void);
